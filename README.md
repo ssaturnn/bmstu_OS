@@ -1,5 +1,5 @@
 # BMSTU course:3 semester:5
-## Subject: Analysis of Algorithms
+## Subject: Operating Systems
 
 - [ ] Lab 1. 
 - [ ] Lab 2.
